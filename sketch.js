@@ -72,7 +72,7 @@ function draw() {
   drawSprites();
 
   text("Newton's", width - 400, height/2 - 35, fill("black"), textSize(35))
-  text("Craddle", width - 375, height/2, fill("black"), textSize(55))
+  text("Cradle", width - 375, height/2, fill("black"), textSize(55))
 
   bob1.display();
   bob2.display();
