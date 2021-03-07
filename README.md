@@ -1,2 +1,2 @@
-# Newton's craddle
-A simulation of the Newton's Craddle
+# Newton's cradle
+A simulation of the Newton's Cradle
